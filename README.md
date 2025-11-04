@@ -54,13 +54,6 @@ weather-app/
 
 ---
 
-## 💡 Future Improvements
-
-- Add background change based on weather condition  
-- Include a 5-day forecast view  
-- Show sunrise and sunset times  
-
----
 
 ## 👩‍💻 Developer
 
